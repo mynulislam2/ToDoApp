@@ -1,0 +1,36 @@
+body{
+  margin:0px;
+background-color: rgb(11, 1, 42);
+}
+figcaption{
+  color: aliceblue;
+}
+.inputList{
+  width: 300px;
+}
+.image{
+  width:200px;
+  
+}
+img{
+  width:100px;
+  margin-left:54px;
+}
+.title{
+  font-size:14px;
+}
+.clearAll{
+  width: 100px;
+}
+.EditableInput{
+  width: 220px !important;
+  background-color: white;
+  border: 1px solid black;
+  height: 38px;
+  padding: 3px 0px 0px 14px;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
